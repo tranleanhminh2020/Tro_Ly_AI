@@ -17,13 +17,13 @@ I. MỤC ĐÍCH, YÊU CẦU
 - Quán triệt, triển khai thực hiện thống nhất các nội dung được tập huấn trong điều hành, quản lý cơ quan, đơn vị.
 II. NỘI DUNG
 1. Tham mưu tác chiến
-a) Chuyển trạng thái Sẵn sàng chiến đấu.
-b) Sẵn sàng chiến đấu thường xuyên.
+a. Chuyển trạng thái Sẵn sàng chiến đấu.
+b. Sẵn sàng chiến đấu thường xuyên.
 2. Tham mưu huấn luyện
-a) Huấn luyện quân sự
+a. Huấn luyện quân sự
 - Phương pháp xây dựng kế hoạch; Soạn thảo giáo án, kế hoạch thông qua giáo án huấn luyện quân sự.
 - Hệ thống văn kiện tham mưu huấn luyện quân sự, xây dựng nền nếp chính quy.
-b) Xây dựng nền nếp chính quy
+b. Xây dựng nền nếp chính quy
 - Chức trách, nhiệm vụ của người chỉ huy, Tham mưu trưởng, Chủ nhiệm chính trị, Chủ nhiệm hậu cần, Chủ nhiệm kỹ thuật và Trực ban tác chiến tại SCH.
 - Quán triệt nội dung Thông tư 143/2023/TT-BQP ngày 27/12/2023 của Bộ trưởng Bộ Quốc phòng quy định xử lý kỷ luật trong QĐND Việt Nam.
 - Đọc 10 lời thề Danh dự của Quân nhân.
@@ -46,7 +46,7 @@ III. THỜI GIAN, ĐỊA ĐIỂM, THÀNH PHẦN
 1. Thời gian: ½ ngày (Dự kiến từ 08h00 đến 11h30 Thứ 4, ngày 26/02/2024).
 2. Địa điểm, thành phần
 2.1. Tập huấn công tác tham mưu, huấn luyện
-a) Điểm cầu Hội trường Cát Lái
+a. Điểm cầu Hội trường Cát Lái
 - Cơ quan:
 + Phòng Tham mưu: Tham mưu trưởng; P. Tham mưu trưởng phụ trách Tác huấn; Ban Tác huấn.
 + Các Phòng: Ban chỉ huy (quân nhân) và 01 đ/c Trợ lý KH.
@@ -55,15 +55,15 @@ a) Điểm cầu Hội trường Cát Lái
 - Các Công ty thành viên:
 + Công ty con: Chủ tịch, Ban Giám đốc, Trưởng phòng hành chính và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành các công ty: TCTT, HT, XDCT, TCCT, TCHP, TCL, KVTC, ICDST, ICDLB, VTB, VTT, DVKT, DVHH, TCIS, TCTN.
 + Công ty liên kết: Chủ tịch hoặc 01 đ/c Ban Giám đốc (quân nhân) các công ty: CLL, TCPH, TCIT, TCO, XDSM, TCIDI, TCSTC, TCS.
-b) Điểm cầu Chi nhánh Đồng bằng sông Cửu Long: Ban Giám đốc, Trưởng phòng hành chính và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của ĐBSCL.
-c) Điểm cầu Tân cảng Petro – Cam Ranh: Chủ tịch, Ban Giám đốc, Trưởng phòng hành chính, Trưởng phòng Điều độ và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của Tân cảng Petro – Cam Ranh.
-d) Điểm cầu Tân cảng Miền Trung: Chủ tịch, Ban Giám đốc, Trưởng phòng hành chính, Trưởng phòng Điều độ và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của TCMT.
-e) Điểm cầu Chi nhánh Tân cảng Miền Bắc
+b. Điểm cầu Chi nhánh Đồng bằng sông Cửu Long: Ban Giám đốc, Trưởng phòng hành chính và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của ĐBSCL.
+c. Điểm cầu Tân cảng Petro – Cam Ranh: Chủ tịch, Ban Giám đốc, Trưởng phòng hành chính, Trưởng phòng Điều độ và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của Tân cảng Petro – Cam Ranh.
+d. Điểm cầu Tân cảng Miền Trung: Chủ tịch, Ban Giám đốc, Trưởng phòng hành chính, Trưởng phòng Điều độ và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của TCMT.
+e. Điểm cầu Chi nhánh Tân cảng Miền Bắc
 + Ban Giám đốc, Trưởng phòng hành chính và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của CNMB; Giám đốc các ICD trực thuộc CNMB.
 + Đại diện Ban Lãnh đạo (quân nhân) các công ty: TC189 và TVMB.
-f) Điểm cầu HICT: Chủ tịch, Ban Giám đốc (quân nhân), Trưởng phòng hành chính, Trưởng TTAN và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của HICT.
+f. Điểm cầu HICT: Chủ tịch, Ban Giám đốc (quân nhân), Trưởng phòng hành chính, Trưởng TTAN và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của HICT.
  
-g) Điểm cầu Tân cảng – Đồng Văn Hà Nam: Chủ tịch, Ban Giám đốc, Trưởng phòng hành chính và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của TCHN.
+g.Điểm cầu Tân cảng – Đồng Văn Hà Nam: Chủ tịch, Ban Giám đốc, Trưởng phòng hành chính và 01 đ/c trợ lý (nhân viên) phụ trách chuyên ngành của TCHN.
 2.2. Tập huấn công tác đảm bảo ANCB, ATHH
 a. Thành phần: Đại diện Chỉ huy, Cán bộ ANCB và Cán bộ nghiệp vụ phụ trách ANCB, ATHH các cơ quan, đơn vị
 b. Tại điểm cầu Cát Lái: Phòng Tham mưu (Phó Tham mưu trưởng phụ trách Cảng vụ, ban KHCV; Đội CTCC, Đội PTT, TTANCL, TTAN CM, Đội PCCN); P.KT, P.HC, P.KHĐT,P.MKT, TTĐĐC, Công ty Hoa tiêu TC, DVHH, TCL, TC Hiệp Phước, Công ty CP VTT TC, Công ty Dịch vụ biển TC (TCO), TC Shipping, TC Phú Hữu, Công ty CP Cảng Cát Lái, TC Cypress.
